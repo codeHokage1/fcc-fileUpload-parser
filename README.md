@@ -1,3 +1,13 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+This is a project done in completion of my Backend & API development course on FreeCodeCamp. It returns metadata with information about an uploaded file.
+
+Link to live API :link: : 
+
+```
+GET / 
+// displays the homepage
+
+POST /api/fileanalyse
+// returns a json response with the uploaded file's name, type and size
+```
